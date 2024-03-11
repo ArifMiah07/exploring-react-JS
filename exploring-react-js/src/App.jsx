@@ -28,6 +28,13 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      {/* echo "# exploring-react-JS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ArifMiah07/exploring-react-JS.git
+git push -u origin main */}
     </>
   )
 }
